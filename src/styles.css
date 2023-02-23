@@ -1,0 +1,12 @@
+#zoom{
+    cursor: crosshair;
+    transition: 0.5s all ease-in-out;
+}
+
+#zoom :hover{
+    transform: scale(1.5);
+}
+
+* {box-sizing: border-box;}
+
+
